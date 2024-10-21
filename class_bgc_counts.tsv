@@ -1,0 +1,280 @@
+	RiPP	PKS	NRPS	other	saccharide	terpene
+RuvB, RuvABC resolvasome, DNA repair	6	4	0	0	0	0
+SARP, medium	74	39	92	11	4	7
+DnaA, regulating chromosomal replication	4	1	1	0	0	0
+Sigma54_activat - single domain	0	0	5	1	0	1
+LuxR-like (AAA_16)	160	602	172	65	7	28
+SARP-LAL-AAA_16	31	92	26	58	0	3
+SARP, large	18	31	86	26	0	18
+LuxR-like (AAA_22)	1	16	4	0	0	5
+SARP-LAL-AAA_22	5	7	16	21	0	4
+Histidine kinase-like	377	894	891	474	6	378
+Two-component system, Trans_reg_C, Response_reg	117	321	326	185	5	55
+Histidine kinase 2-like	436	688	648	219	9	348
+Stress-induced reg. ABATE, zf-CGNR	35	72	68	38	1	35
+zf-CGNR - single domain	5	16	14	1	0	17
+PK_Tyr_Ser-Thr - single domain	6	17	12	0	0	2
+UvrA, nucleotide excision repair	0	0	0	0	0	2
+AbiEi_4 - single domain	1	0	0	0	0	0
+DeoR sugar catabolism, Peripla_BP_3	128	271	225	156	3	28
+IclR	40	162	125	201	1	38
+AbrB - single domain	0	7	2	0	0	0
+HTH_5 - single domain	104	260	245	84	1	52
+LysR	247	506	598	298	5	188
+AidB, DNA repair	1	33	31	1	1	6
+AlkA, DNA repair	1	1	3	2	0	1
+GntR, MocR type	9	41	86	33	1	11
+TetR_C_11	24	131	155	174	0	57
+AHSA1 - single domain	8	80	48	17	1	21
+HTH20 - AHSA1 Heat shock protein	3	7	6	1	0	10
+ANT - single domain	1	0	0	0	0	0
+AmiR and NasR transcription antitermination regulators (ANTAR)	0	0	1	3	0	0
+Arabinose-binding domain of AraC	1	13	7	1	0	0
+AraC binding domain	31	70	67	33	1	46
+XRE	25	201	120	43	0	225
+Cupin_6, AraC family	20	30	28	40	0	17
+XRE-like, HTH31	7	3	3	0	0	92
+AraC binding domain 2	12	47	46	26	0	29
+NrtR	1	11	13	4	0	1
+Arc - single domain	1	1	15	1	0	3
+ArgR	1	0	4	0	0	0
+AsnC, asparagine synthesis	28	53	42	6	1	69
+AsnC, HTH24, asparagine synthesis	26	182	137	56	0	80
+AsnC 3, asparagine synthesis	0	2	0	3	0	0
+ASRT - single domain	0	0	1	0	0	0
+NrdR	0	0	0	407	0	1
+A_amylase_inhib - single domain	1	4	2	1	0	3
+HTH_27 - single domain	5	5	23	5	0	0
+LitR-like, MerR family	1	8	45	0	0	66
+Bac_DNA_binding - single domain	0	1	19	0	0	0
+Barstar - single domain	5	22	18	16	0	3
+BaxI_1 - single domain	0	8	1	1	0	0
+ROK, IclR, carbon catabolite repression	7	6	14	2	0	3
+TetR_C_6, BetI-like	87	133	120	72	0	24
+Metallo beta lactamases	1	3	0	0	0	3
+BldD	1	0	0	2	0	0
+BPA - single domain	1	3	1	0	0	0
+BsuBI_PstI_RE_N - single domain	0	1	0	0	0	0
+SARP, small	120	440	118	166	11	9
+BTAD - single domain	41	85	43	29	0	6
+SARP, other, medium	42	17	24	6	0	0
+SARP, other, large	10	13	7	6	10	3
+Sigma70, CAP, Cysteine-rich secretory protein	4	9	22	6	0	2
+Carboxypeptidase regulatory-like, MFS transporter	4	8	26	31	0	8
+GyrI-like, cyclopropanoid hydrolysis, AraC family	3	21	8	2	0	4
+RHH_1 - single domain	3	5	17	4	0	2
+CDKN3 - single domain	0	1	2	0	0	0
+CENP-B_N - single domain	0	1	0	1	0	0
+HTH_28 - single domain	12	8	5	1	0	2
+LuxR	375	492	547	271	6	137
+HTH_17 - Citrate_synt	0	0	2	0	0	0
+Crp	12	12	11	0	0	24
+HTH11, WYL	18	72	74	34	2	36
+HTH11, response_reg	0	4	1	0	0	0
+HTH_Crp_2 - single domain	2	4	9	6	0	1
+Inhibitor_I36 - single domain	27	41	87	20	0	28
+CSD - single domain	87	201	115	27	6	23
+Endonuclease 3, HTH32	3	6	6	1	0	4
+Endonuclease 3, HTH29	2	18	3	2	0	6
+HTH_23, HTH_33	5	12	7	4	0	2
+Endonuclease 1	10	17	21	6	0	4
+Endonuclease 4	20	18	24	13	0	11
+DeoR sugar catabolism	19	107	131	14	0	21
+Anti-sigma factor, Mycothiol maleylpyruvate isomerase	2	0	0	23	0	4
+ROK, HTH24, carbon catabolite repression	6	3	17	3	0	10
+DJ-1_PfpI	29	83	124	339	3	165
+AraC-HTH	23	20	23	10	0	6
+6-O-methylguanine-DNA methyltransferases, DNA repair protein	11	29	18	38	3	1
+DNA_binding_1 - single domain	1	4	1	16	0	3
+DNA polymerase III beta subunit, MerR family	2	10	1	1	0	3
+LexA_DNA_bind - single domain	3	10	1	1	0	3
+ArsR	2	9	12	2	0	8
+HTH_24 - single domain	5	1	7	5	0	1
+Fe-dependent repressor, Diphtheria toxin repressor	0	1	0	0	0	0
+Pyridoxamine 5'-phosphate oxidase	4	9	5	2	0	3
+DUF2063 - single domain	10	0	0	0	0	0
+DUF2089 - single domain	0	0	2	1	0	0
+DUF4910 - HTH_47	2	7	2	3	2	3
+DUF2690, HTH31	4	3	6	2	0	1
+DUF5753, HTH31	165	209	248	116	3	137
+DUF5753, HTH3	4	7	4	1	0	3
+Sigma70-2	167	236	275	186	4	297
+HTH20 - DUF5937	2	2	5	0	0	4
+DUF6597	4	28	31	1	1	2
+IclR, Response_reg	1	4	6	1	0	0
+TetR_C_13_2 - single domain	0	0	0	2	0	0
+EPSP synthase	5	7	34	4	0	1
+GntR, FCD containing	33	233	243	332	0	30
+Oxidoreductases	0	3	4	1	0	0
+Formamidopyrimidine-DNA glycosylase (Fpg), DNA repair	1	23	20	1	0	14
+FBP_C - single domain	0	11	35	8	0	9
+MarR	2	8	6	8	0	4
+HTH_36 - single domain	3	12	3	1	0	0
+FitA-like_RHH - single domain	0	3	0	1	0	0
+FUR - single domain	9	49	47	10	0	3
+HTH30, GAF	1	20	40	19	3	7
+Histidine kinase, GAF, Response_reg	2	2	4	0	1	0
+HAMP, Response_reg	15	7	4	2	0	0
+LuxR-like (GAF)	6	7	21	2	0	4
+Stage II sporulation protein E (SpoIIE), Response_reg	5	16	24	4	0	3
+LuxR-like (PAS), small	0	78	23	1	2	1
+LuxR-like (PAS), large	0	0	1	79	0	0
+Sigma70_r4_2 - single domain	10	35	80	25	0	5
+Sigma70	56	114	165	67	1	127
+Sigma70_r4 - single domain	14	7	21	4	1	2
+HTH_IclR - single domain	12	18	41	11	0	5
+PucR, purine catabolism regulatory protein, GGDEF_2	18	58	60	12	2	18
+PucR, purine catabolism regulatory protein, all	2	35	13	10	1	1
+GKRP_SIS_N - single domain	2	9	6	0	0	1
+GlnR	0	2	1	1	0	2
+GntR, DasR/HutC like	64	112	131	88	4	178
+Rrf2 - single domain	11	37	28	17	0	17
+GreA_GreB - single domain	2	0	19	0	0	0
+GreA/GreB, transcription elongation factor	11	8	8	1	1	1
+GyrI-like, cyclopropanoid hydrolysis, MerR family	1	16	6	6	0	3
+Histidine kinase, Response_reg	0	0	2	1	0	0
+HATPase_c_3 - single domain	1	7	9	0	0	20
+Molecular chaperones, or heat shock proteins (Hsps)	1	8	27	13	0	8
+HEAT repeats, MerR family	6	6	10	3	0	15
+RecR, DNA repair	2	8	7	0	0	1
+HisKA_3 - single domain	134	105	73	71	3	15
+HTHP - single domain	1	0	0	0	0	0
+HTH_1 - single domain	10	19	31	24	0	3
+HTH_11 - single domain	0	2	0	0	0	0
+HTH_DeoR - single domain	1	1	0	0	0	0
+HTH_7 - single domain	0	1	1	1	0	2
+HxlR - single domain	71	235	182	246	6	41
+Sigma70_ECF - single domain	0	1	0	0	0	0
+HTH_17 - TOBE	3	30	18	0	0	4
+MerR - TOBE	4	16	5	10	0	1
+Rv2175c, unknown function	4	0	0	0	0	1
+HTH_AraC - single domain	3	32	14	14	0	0
+Short-chain fatty acyl coenzyme A regulator	0	31	40	4	0	1
+MmyB-like, HTH3	6	44	20	6	0	5
+Peptidoglycan binding domain, HTH31	2	11	6	2	0	4
+MmyB-like, HTH31	60	235	141	156	4	55
+HTH_34 - single domain	24	10	22	11	0	4
+TrmB - single domain	2	22	7	6	0	4
+HTH_21 - single domain	0	4	7	0	0	1
+Integrase regulation	18	31	34	10	0	9
+YheO-like PAS domain	0	14	19	6	0	1
+HTH_22 - single domain	3	15	13	60	0	0
+HTH_38 - single domain	2	5	3	0	1	2
+HTH_33 - single domain	3	23	22	4	0	7
+Integrases LZ_Tnp_IS481	0	6	1	3	0	2
+HTH_29 - single domain	1	3	4	0	0	0
+HTH_AsnC-type - single domain	0	2	3	6	0	0
+ROK, MarR, carbon catabolite repression	2	10	4	5	0	2
+RodZ	0	0	0	1	0	0
+HTH_26 - single domain	16	28	27	26	1	5
+Staph_reg_Sar_Rot - single domain	0	0	2	0	0	2
+TetR_C_16	15	54	51	40	0	7
+Penicillinase_R - single domain	9	47	50	19	1	29
+HTH_37 - single domain	1	0	0	0	0	0
+LacI, Peripla_BP_1	4	21	26	147	0	6
+HTH_8 - single domain	0	1	8	1	0	0
+PucR, purine catabolism regulatory protein	16	32	15	6	0	5
+HTH_58 - single domain	15	2	4	0	0	2
+Sugar isomerase	4	36	21	5	0	1
+HTH_6 - single domain	0	3	11	4	0	1
+HTH_62 - single domain	0	1	1	0	0	0
+HTH_67 - single domain	8	12	53	6	4	7
+TetR_C_43, SbtR-like	53	92	176	77	0	38
+TetR_C_14, MftR, Mycofactin biosynthesis	23	91	85	50	9	15
+PadR - single domain	24	76	169	39	7	25
+OrfB, transposase DNA binding	11	22	17	18	2	10
+HTH_OrfB_IS605 - single domain	0	0	0	1	0	1
+Transcriptional activator PafBC, DNA damage	0	1	1	0	0	0
+ParB, chromosome partition	0	1	0	1	0	0
+HTH_psq - single domain	0	0	0	0	0	1
+HTH_Tnp_Mu_2 - single domain	1	0	0	0	0	0
+WhiA, sporulation factor	1	0	3	0	0	0
+IclR - single domain	2	4	9	5	0	0
+InhA-like_MAM - single domain	0	0	1	1	0	0
+Inhibitor_I42 - single domain	2	4	2	2	0	0
+Inhibitor_I66 - single domain	0	1	7	0	0	0
+Inhibitor_I78 - single domain	0	1	4	0	0	1
+potato_inhibit - single domain	0	1	0	0	0	0
+Inhibitor_I9 - single domain	0	2	0	0	0	0
+LexA	1	6	0	414	0	2
+LiaF-like_C - single domain	0	1	0	0	0	0
+LytR, cell envelope-related	1	16	19	4	0	9
+LytR_C - single domain	8	2	3	0	0	28
+LytTR	1	66	12	7	0	0
+LytTR - single domain	6	0	0	0	0	0
+MBF2 - single domain	0	0	0	1	0	0
+MEDS - single domain	2	1	7	0	0	1
+TipAS antibiotic-recognition domain, MerR family	17	14	23	10	1	40
+MerR-DNA-bind - single domain	0	1	7	2	0	1
+MerR - single domain	0	2	0	0	0	0
+Protein phosphatase 2C, MerR family	0	1	15	1	0	5
+MerR_2 - single domain	0	2	4	4	0	0
+SbcD, DNA repair	4	26	21	1	0	4
+MLTR_LBD - single domain	26	29	25	49	0	6
+Myb_DNA-bind_6 - single domain	0	1	0	0	0	0
+Sigma70, NPCBM	0	1	0	0	0	0
+NusG - single domain	0	2	2	0	0	1
+OrfB_Zn_ribbon - single domain	2	4	1	5	0	1
+P-II - single domain	3	3	1	0	0	0
+PadR, phenolic acid repressor	13	103	80	20	0	22
+PHB_acc_N - single domain	0	0	0	0	0	4
+PriA_3primeBD - single domain	0	2	0	1	0	45
+RCC1_2 - single domain	0	0	0	1	0	0
+Regulator_TrmB - single domain	0	0	12	0	0	0
+RHH_3 - single domain	1	0	0	0	0	0
+Rho_GDI - single domain	0	0	1	0	0	0
+Ribosom_S30AE_C - single domain	0	0	0	2	0	1
+ROS_MUCR - single domain	0	0	1	0	0	0
+RraB - single domain	0	1	0	0	0	0
+Anti-sigma-K factor rskA	1	19	23	1	0	9
+RskA_C - single domain	0	3	4	1	0	6
+SAVED - single domain	15	1	1	1	0	0
+Serpin - single domain	2	4	6	0	0	14
+SSI - single domain	10	35	19	4	0	87
+SWIM - single domain	3	5	16	19	0	11
+TetR_C_1	74	212	167	64	3	52
+TetR_C_1 - single domain	7	17	5	9	0	2
+TetR_C_11 - single domain	1	1	0	4	0	0
+TetR_C_7, AefR-like	1	35	44	11	1	3
+TetR_C_13, AcuR, acrylate-responsive repressor	32	84	88	34	0	20
+TetR_C_13 - single domain	10	4	4	2	0	2
+TetR_C_13_2, LmrA/YxaF-like	2	15	16	7	0	13
+ScbR-like, TetR	1	25	5	354	0	102
+TetR_C_6 - single domain	2	6	4	1	0	2
+TetR_C_24	15	18	26	226	0	35
+TetR_C_15	0	10	16	3	0	3
+TetR_C_22, SCO1712-like	1	8	10	1	0	2
+TetR_C_46, DesT-like	7	57	38	4	0	1
+TetR_C_33	40	123	129	40	2	106
+TetR_C_16 - single domain	1	0	0	7	0	4
+TetR_C_31	11	36	34	7	0	16
+TetR_C_20	30	1	0	0	0	23
+TetR_C_21	6	4	12	12	0	10
+TetR_C_21 - single domain	0	2	1	0	0	0
+TetR_C_23	1	6	1	0	0	0
+TetR_C_24 - single domain	0	1	0	0	0	0
+TetR_C_27	0	2	3	0	0	2
+TetR_C_31 - single domain	5	24	16	5	0	7
+TetR_C_30	1	4	2	0	0	0
+TetR_C_32	4	119	9	2	0	0
+TetR_C_33 - single domain	7	27	44	2	0	5
+TetR_C_34	0	30	9	1	0	3
+TetR_C_34 - single domain	0	0	0	1	0	0
+TetR_C_35 - single domain	0	6	0	0	0	0
+TetR_C_38	2	0	1	1	0	0
+TetR_C_40 - single domain	0	1	0	0	0	0
+TetR_C_43 - single domain	0	4	1	1	0	0
+TetR_C_44 - single domain	0	0	0	1	0	0
+TetR_C_7 - single domain	0	0	2	0	0	0
+Trns_repr_metal - single domain	6	29	14	13	0	11
+UvrA_DNA-bind - single domain	3	9	12	1	3	0
+Vir_act_alpha_C - single domain	0	2	0	0	0	0
+WHD - single domain	0	0	0	1	0	0
+Whib - single domain	50	78	60	13	0	7
+YbaB_DNA_bd - single domain	4	9	11	1	0	1
+YbjN - single domain	8	19	4	1	1	0
+zf-ACC - single domain	0	1	0	0	0	0
+zf-CDGSH - single domain	2	7	24	4	0	2
+zf-dskA_traR - single domain	10	13	17	1	0	1
+zf-ISL3 - single domain	1	2	6	1	0	0
+zf-TFIIB - single domain	0	3	9	0	0	0

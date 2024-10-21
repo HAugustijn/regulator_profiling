@@ -1,0 +1,15 @@
+	NRPS	NRP-metallophore	CDPS	NAPAA	prodigiosin	thioamide-NRP	NRPS-like	T1PKS	T2PKS	HR-T2PKS	T3PKS	transAT-PKS-like	transAT-PKS	hglE-KS	arylpolyene	PKS-like	lassopeptide	lanthipeptide-class-i	lanthipeptide-class-ii	lanthipeptide-class-iii	lanthipeptide-class-iv	lanthipeptide-class-v	guanidinotides	LAP	linaridin	ranthipeptide	redox-cofactor	thioamitides	thiopeptide	RRE-containing	RiPP-like	terpene	oligosaccharide	2dos	aminopolycarboxylic-acid	betalactone	blactam	butyrolactone	ectoine	furan	hydrogen-cyanide	indole	melanin	NI-siderophore	nucleoside	phenazine	phosphoglycolipid	phosphonate	other
+HTH_Crp_2 - single domain	50	0	0	0	0	0	0	25	0	0	0	0	25	0	0	0	0	0	0	25	0	0	0	0	0	0	25	0	0	0	0	25	0	0	0	0	0	25	0	0	0	0	0	25	0	0	0	0	25
+TetR_C_33 - single domain	50	0	25	25	0	25	25	25	0	0	25	0	0	0	25	0	0	25	0	0	0	0	0	25	0	0	0	0	0	25	25	25	0	0	0	0	25	0	0	0	0	0	0	0	0	0	0	0	25
+LuxR-like (AAA_16)	25	25	25	25	0	25	25	75	25	25	25	25	25	25	25	25	25	25	25	25	25	25	25	25	0	0	0	0	25	25	25	25	25	25	25	25	0	25	0	25	0	25	25	25	25	25	0	25	25
+SARP, other, medium	50	0	0	0	0	0	25	25	25	0	25	0	0	0	25	25	25	0	0	0	25	0	0	25	0	0	0	0	0	50	0	0	0	0	0	0	0	25	0	0	0	0	0	25	25	0	0	0	25
+LitR-like, MerR family	50	0	0	0	0	0	25	25	25	0	25	0	0	0	0	0	0	0	0	25	0	0	0	0	0	0	0	0	0	0	0	75	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+SARP-LAL-AAA_16	25	25	0	0	0	0	25	50	0	0	25	25	25	0	0	25	0	0	25	25	0	0	0	25	25	0	0	0	0	25	25	25	0	0	0	25	25	25	25	0	0	0	0	0	0	0	0	0	0
+LuxR-like (PAS), small	25	0	0	0	0	0	25	75	0	0	25	25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	25	25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	25
+SARP, medium	50	25	0	0	0	25	25	25	25	25	25	0	0	25	25	25	25	0	25	25	0	0	0	25	25	0	0	0	0	25	25	25	25	0	0	0	0	25	0	0	0	0	0	0	25	0	0	0	25
+XRE-like, HTH31	25	0	0	0	0	0	0	25	0	0	25	0	0	0	0	0	0	0	0	0	0	0	0	25	0	0	0	0	25	0	0	100	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ScbR-like, TetR	25	25	0	25	0	0	0	25	25	0	25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	25	0	0	0	25	0	0	0	0	0	75	0	25	0	0	0	0	0	0	25	0	25
+SARP, small	25	25	0	25	25	25	25	25	25	25	25	0	25	25	25	25	25	25	25	0	25	0	0	25	25	25	0	0	25	25	25	25	25	0	25	25	25	25	25	25	25	0	25	25	0	0	0	0	25
+LexA	0	0	0	0	0	0	0	25	25	0	25	0	25	0	0	0	0	25	0	0	0	0	0	0	0	0	0	0	0	0	0	25	0	0	0	0	0	0	0	0	0	0	0	100	0	0	0	0	0
+NrdR	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	25	0	0	0	0	0	0	0	0	0	0	0	100	0	0	0	0	0
+LuxR-like (PAS), large	0	0	0	0	0	0	25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	100
